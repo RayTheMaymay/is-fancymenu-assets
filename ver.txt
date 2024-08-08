@@ -1,2 +1,2 @@
 Latest version:
-v2.5a
+v2.5b
